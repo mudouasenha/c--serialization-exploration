@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Husky.GrpcGreeter", "Husky.GrpcGreeter\Husky.GrpcGreeter.csproj", "{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Husky.GrpcGreeterClient", "Husky.GrpcGreeterClient\Husky.GrpcGreeterClient.csproj", "{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112CACE1-0F1F-482B-A2CD-6F083F256387}
+	EndGlobalSection
+EndGlobal
