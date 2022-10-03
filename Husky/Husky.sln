@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Husky.GrpcGreeter", "Husky.GrpcGreeter\Husky.GrpcGreeter.csproj", "{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Husky.GrpcGreeterClient", "Husky.GrpcGreeterClient\Husky.GrpcGreeterClient.csproj", "{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Husky.GrpcGreeterClient", "Husky.GrpcGreeterClient\Husky.GrpcGreeterClient.csproj", "{1194AB78-D4AB-4DAD-9D9B-94AEBCB51961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C705D6-7554-4129-BA0E-92E8A6E6CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC9F70ED-A996-4B2F-A6A4-E846ED3482CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1194AB78-D4AB-4DAD-9D9B-94AEBCB51961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1194AB78-D4AB-4DAD-9D9B-94AEBCB51961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1194AB78-D4AB-4DAD-9D9B-94AEBCB51961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1194AB78-D4AB-4DAD-9D9B-94AEBCB51961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
